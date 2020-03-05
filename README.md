@@ -4,23 +4,18 @@
 
 <b>What You Need:</b>
 
-PCSX2 (PS2 Emulator)<br>
-http://bit.ly/3cDH5FY
+<a href="http://bit.ly/3cDH5FY" target="_blank">PCSX2 (PS2 Emulator)</a>
 
-PS2 BIOS (for PCSX2)<br>
-http://bit.ly/2TpggO6
+<a href="http://bit.ly/2TpggO6" target="_blank">PS2 BIOS (for PCSX2)</a>
 
-DS4Windows (PS4 Controller Support)<br>
-http://bit.ly/2IpHRbq
+<a href="http://bit.ly/2IpHRbq" target="_blank">DS4Windows (PS4 Controller Support)</a>
 
-Mymc (PS2 Memory Card Manager)<br>
-http://bit.ly/2VZwqQ3
+<a href="http://bit.ly/2VZwqQ3" target="_blank">Mymc (PS2 Memory Card Manager)</a>
 
 If you have problems about a missing DLL known as "msvcr71.dll":<br>
 http://bit.ly/3cwfh6a
 
-ESPN NFL 2K5 (ISO File)<br>
-http://bit.ly/2vyT473
+<a href="http://bit.ly/2vyT473" target="_blank">ESPN NFL 2K5 (ISO File)</a>
 
 Updated Roster Files<br>
 http://bit.ly/2vykGcr<br>
@@ -29,23 +24,11 @@ http://bit.ly/2ToSy4p<br>
 
 <b>Resources:</b>
 
-PCSX2 Setup (PC)<br>
-http://bit.ly/3cz8dpp
-
 <a href="http://bit.ly/3cz8dpp" target="_blank">PCSX2 Setup (PC)</a>
-
-PCSX2 Setup (Mac)<br>
-http://bit.ly/2vH7x0B
 
 <a href="http://bit.ly/2vH7x0B" target="_blank">PCSX2 Setup (Mac)</a>
 
-Connecting a PS4 controller (PCSX2)<br>
-http://bit.ly/32ZZesX
-
 <a href="http://bit.ly/32ZZesX" target="_blank">Connecting a PS4 controller (PCSX2)</a>
-
-Updating 2K5 rosters (using mymc)<br>
-http://bit.ly/39smlyP
 
 <a href="http://bit.ly/39smlyP" target="_blank">Updating 2K5 rosters (using mymc)</a>
 
@@ -53,13 +36,7 @@ http://bit.ly/39smlyP
 
 I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
-The Unarchiver (for Mac)<br>
-http://bit.ly/3axfO65
-
 <a href="http://bit.ly/3axfO65" target="_blank">The Unarchiver (for Mac)</a>
-
-7-Zip (for PC)<br>
-http://bit.ly/3auwPOg
 
 <a href="http://bit.ly/3auwPOg" target="_blank">7-Zip (for PC)</a>
 
