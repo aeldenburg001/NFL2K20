@@ -40,5 +40,14 @@ https://www.youtube.com/watch?v=NigXTEZfdUQ
 Updating 2K5 rosters (using mymc)<br>
 https://www.youtube.com/watch?v=vfjW2pPmPMM
 
-All Required Files - Updated as of March, 2020
+<b>Notes:</b>
+
+I reccomend using either The Unarchiver (Mac) or 7-Zip (PC) for extracting files<br>
+The Unarchiver<br>
+https://macpaw.com/the-unarchiver
+
+7-Zip<br>
+https://www.7-zip.org/
+
+All Required Files - Updated as of March, 2020<br>
 https://drive.google.com/drive/folders/18hy8LCLeiIdPik9e8JM84txv9gFtwIPA?usp=sharing
