@@ -2,6 +2,8 @@
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"><a href="//imgur.com/a/ircOQVO">ESPN NFL 2K20 Cover Art</a></blockquote>
 
+<a href="https://www.youtube.com/watch?v=UNskXFPECa8&t=47s" target="_blank">Why ESPN NFL2K5 is the GREATEST Football Game Ever Made</a>
+
 <b>What You Need:</b>
 
 1) <a href="http://bit.ly/3cDH5FY" target="_blank">PCSX2 (PS2 Emulator)</a>
@@ -18,6 +20,16 @@ http://bit.ly/3cwfh6a
 5) <a href="http://bit.ly/2vyT473" target="_blank">ESPN NFL 2K5 (ISO File)</a>
 
 6) <a href="http://bit.ly/2vykGcr" target="_blank">Updated Roster Files</a>
+
+<b>Setup:</b>
+
+* To begin, install PCSX2. Once complete you can use DS4Windows to connect a PS4 controller either via USB or Bluetooth.<br>
+
+* Next, you will use mymc to import the updated roster file onto your virtual memory card.<br>
+
+* Finally, when loading up NFL 2K5 go to: Options -> Load -> R2k19<br>
+
+* You will now have rosters updated for the 2019-2020 season! Enjoy!<br>
 
 <b>Resources:</b>
 
