@@ -21,9 +21,9 @@ http://bit.ly/3cwfh6a
 
 <b>Resources:</b>
 
-* <a href="http://bit.ly/3cz8dpp" target="_blank">PCSX2 Setup (PC)</a>
-
 * <a href="http://bit.ly/2vH7x0B" target="_blank">PCSX2 Setup (Mac)</a>
+
+* <a href="http://bit.ly/3cz8dpp" target="_blank">PCSX2 Setup (PC)</a>
 
 * <a href="http://bit.ly/32ZZesX" target="_blank">Connecting a PS4 controller (PCSX2)</a>
 
