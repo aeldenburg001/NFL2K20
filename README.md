@@ -1,5 +1,7 @@
 <b>ESPN NFL 2K20 SETUP</b>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"><a href="//imgur.com/a/ircOQVO">ESPN NFL 2K20 Cover Art</a></blockquote>
+
 <b>What You Need:</b>
 
 PCSX2 (PS2 Emulator)<br>
@@ -36,6 +38,4 @@ Connecting a PS4 controller (PCSX2)<br>
 https://www.youtube.com/watch?v=NigXTEZfdUQ
 
 Updating 2K5 rosters (using mymc)<br>
-https://www.youtube.com/watch?v=vfjW2pPmPMM<br>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"><a href="//imgur.com/a/ircOQVO">ESPN NFL 2K20 Cover Art</a></blockquote>
+https://www.youtube.com/watch?v=vfjW2pPmPMM
