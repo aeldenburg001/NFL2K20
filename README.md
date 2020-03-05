@@ -12,7 +12,7 @@
 
 4) <a href="http://bit.ly/2VZwqQ3" target="_blank">Mymc (PS2 Memory Card Manager)</a>
 
-*If you have problems about a missing DLL known as "msvcr71.dll":*
+*If you have problems about a missing DLL known as "msvcr71.dll"*:
 http://bit.ly/3cwfh6a
 
 5) <a href="http://bit.ly/2vyT473" target="_blank">ESPN NFL 2K5 (ISO File)</a>
