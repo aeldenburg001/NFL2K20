@@ -29,7 +29,6 @@ http://bit.ly/2ToSy4p<br>
 <b>Resources:</b>
 
 PCSX2 Setup (PC)<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1q9BFKJKjqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 http://bit.ly/3cz8dpp
 
 PCSX2 Setup (Mac)<br>
