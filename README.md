@@ -2,8 +2,6 @@
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"><a href="//imgur.com/a/ircOQVO">ESPN NFL 2K20 Cover Art</a></blockquote>
 
-<a href="https://www.youtube.com/watch?v=UNskXFPECa8&t=47s" target="_blank">Why ESPN NFL2K5 is the GREATEST Football Game Ever Made</a>
-
 <b>What You Need:</b>
 
 1) <a href="http://bit.ly/3cDH5FY" target="_blank">PCSX2 (PS2 Emulator)</a>
@@ -51,3 +49,8 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <b>All Required Files - Updated as of March, 2020</b><br>
 http://bit.ly/2vykidZ
+
+<b>Other:</b>
+
+<a href="https://www.youtube.com/watch?v=UNskXFPECa8&t=47s" target="_blank">Why ESPN NFL2K5 is the GREATEST Football Game Ever Made</a>
+
