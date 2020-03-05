@@ -23,7 +23,7 @@ http://bit.ly/3cwfh6a
 
 <b>Setup:</b>
 
-* To begin, install PCSX2. Once complete you can use DS4Windows to connect a PS4 controller either via USB or Bluetooth.<br>
+* To begin, install PCSX2. Once complete you can use DS4Windows to connect a PS4 controller via USB or Bluetooth.<br>
 
 * Next, you will use mymc to import the updated roster file onto your virtual memory card.<br>
 
