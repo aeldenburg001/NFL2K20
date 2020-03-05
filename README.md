@@ -17,11 +17,7 @@ http://bit.ly/3cwfh6a
 
 5) <a href="http://bit.ly/2vyT473" target="_blank">ESPN NFL 2K5 (ISO File)</a>
 
-6) Updated Roster Files<br>
-
-http://bit.ly/2vykGcr<br>
-or<br>
-http://bit.ly/2ToSy4p<br>
+6) <a href="http://bit.ly/2vykGcr" target="_blank">Updated Roster Files</a>
 
 <b>Resources:</b>
 
