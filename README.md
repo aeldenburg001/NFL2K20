@@ -1,6 +1,6 @@
 <b>ESPN NFL 2K20 SETUP</b>
 
-<img src="https://forums.operationsports.com/forums/espn-nfl-2k5-football/956494-nfl-2k20-cover-art.html" alt="NFL2K20">
+<img src="https://imgur.com/gallery/ircOQVO" alt="NFL2K20">
 
 <b>What You Need:</b>
 
