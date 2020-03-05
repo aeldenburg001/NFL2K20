@@ -1,5 +1,7 @@
 <b>ESPN NFL 2K20 SETUP</b>
 
+<img src="https://forums.operationsports.com/forums/attachments/espn-nfl-2k5-football/174603d1579480781-nfl-2k20-cover-art-nfl2k20mccaffery.jpg" alt="NFL2K20">
+
 <b>What You Need:</b>
 
 PCSX2 (PS2 Emulator)<br>
