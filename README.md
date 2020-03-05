@@ -1,6 +1,6 @@
 <b>ESPN NFL 2K20 SETUP</b>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"></blockquote>
+<img src="https://imgur.com/a/ircOQVO#3CTSLxm" alt="NFL 2K20">
 
 <b>What You Need:</b>
 
