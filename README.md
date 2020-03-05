@@ -2,6 +2,8 @@
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"><a href="//imgur.com/a/ircOQVO">ESPN NFL 2K20 Cover Art</a></blockquote>
 
+![Alt text](https://imgur.com/a/ircOQVO "NFL2K20")
+
 <b>What You Need:</b>
 
 1) <a href="http://bit.ly/3cDH5FY" target="_blank">PCSX2 (PS2 Emulator)</a>
