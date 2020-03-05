@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=NigXTEZfdUQ
 
 Updating 2K5 rosters (using mymc)<br>
 https://www.youtube.com/watch?v=vfjW2pPmPMM
+
+All Required Files - Updated as of March, 2020
+https://drive.google.com/drive/folders/18hy8LCLeiIdPik9e8JM84txv9gFtwIPA?usp=sharing
