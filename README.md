@@ -21,21 +21,21 @@ http://bit.ly/3cwfh6a
 
 <b>Resources:</b>
 
-<a href="http://bit.ly/3cz8dpp" target="_blank">PCSX2 Setup (PC)</a>
+* <a href="http://bit.ly/3cz8dpp" target="_blank">PCSX2 Setup (PC)</a>
 
-<a href="http://bit.ly/2vH7x0B" target="_blank">PCSX2 Setup (Mac)</a>
+* <a href="http://bit.ly/2vH7x0B" target="_blank">PCSX2 Setup (Mac)</a>
 
-<a href="http://bit.ly/32ZZesX" target="_blank">Connecting a PS4 controller (PCSX2)</a>
+* <a href="http://bit.ly/32ZZesX" target="_blank">Connecting a PS4 controller (PCSX2)</a>
 
-<a href="http://bit.ly/39smlyP" target="_blank">Updating 2K5 rosters (using mymc)</a>
+* <a href="http://bit.ly/39smlyP" target="_blank">Updating 2K5 rosters (using mymc)</a>
 
 <b>Notes:</b>
 
 I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
-<a href="http://bit.ly/3axfO65" target="_blank">The Unarchiver (for Mac)</a>
+* <a href="http://bit.ly/3axfO65" target="_blank">The Unarchiver (for Mac)</a>
 
-<a href="http://bit.ly/3auwPOg" target="_blank">7-Zip (for PC)</a>
+* <a href="http://bit.ly/3auwPOg" target="_blank">7-Zip (for PC)</a>
 
 <b>All Required Files - Updated as of March, 2020</b><br>
 http://bit.ly/2vykidZ
