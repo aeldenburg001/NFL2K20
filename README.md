@@ -5,49 +5,50 @@
 <b>What You Need:</b>
 
 PCSX2 (PS2 Emulator)<br>
-https://pcsx2.net/
+http://bit.ly/3cDH5FY
 
 DS4Windows (PS4 Controller Support)<br>
-http://ds4windows.com/
+http://bit.ly/2IpHRbq
 
 Mymc (PS2 Memory Card Manager)<br>
-https://beatzsoftware.blogspot.com/2014/11/mymc-ps2-memory-card-image-utility.html
+http://bit.ly/2VZwqQ3
 
 If you have problems about a missing DLL known as "msvcr71.dll":<br>
-https://forums.pcsx2.net/Thread-Mymc
+http://bit.ly/3cwfh6a
 
 ESPN NFL 2K5 (ISO File)<br>
-https://vimm.net/vault/8260
+http://bit.ly/2vyT473
 
 Updated Roster Files<br>
-https://forums.operationsports.com/forums/espn-nfl-2k5-rosters/<br>
+http://bit.ly/2vykGcr<br>
 
 or<br>
 
-http://nfl2k5rosters.com/<br>
+http://bit.ly/2ToSy4p<br>
 
 <b>Resources:</b>
 
 PCSX2 Setup (PC)<br>
-https://www.youtube.com/watch?v=1q9BFKJKjqQ
+http://bit.ly/3cz8dpp
 
 PCSX2 Setup (Mac)<br>
-https://www.youtube.com/watch?v=alivMtCd9_U
+http://bit.ly/2vH7x0B
 
 Connecting a PS4 controller (PCSX2)<br>
-https://www.youtube.com/watch?v=NigXTEZfdUQ
+http://bit.ly/32ZZesX
 
 Updating 2K5 rosters (using mymc)<br>
-https://www.youtube.com/watch?v=vfjW2pPmPMM
+http://bit.ly/39smlyP
 
 <b>Notes:</b>
 
-I reccomend using either The Unarchiver (Mac) or 7-Zip (PC) for extracting files<br>
-The Unarchiver<br>
-https://macpaw.com/the-unarchiver
+I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
-7-Zip<br>
-https://www.7-zip.org/
+The Unarchiver (for Mac)<br>
+http://bit.ly/3axfO65
 
-All Required Files - Updated as of March, 2020<br>
-https://drive.google.com/drive/folders/18hy8LCLeiIdPik9e8JM84txv9gFtwIPA?usp=sharing
+7-Zip (for PC)<br>
+http://bit.ly/3auwPOg
+
+<b>All Required Files - Updated as of March, 2020</b><br>
+http://bit.ly/2vykidZ
