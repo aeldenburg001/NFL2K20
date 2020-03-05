@@ -2,7 +2,7 @@
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ircOQVO"><a href="//imgur.com/a/ircOQVO">ESPN NFL 2K20 Cover Art</a></blockquote>
 
-<img src="https://imgur.com/a/ircOQVO#3CTSLxm" alt="NFL 2K20">
+<img src="https://imgur.com/a/ircOQVO#3CTSLxm" alt="NFL 2K20"/>
 
 <b>What You Need:</b>
 
