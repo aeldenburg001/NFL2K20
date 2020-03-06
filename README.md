@@ -2,39 +2,23 @@
 
 <img src="/NFL2K20.jpg" alt="NFL2K20" height="60%" width="50%">
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/img.jpeg" class="d-block w-100" alt="NFL2K20">
-    </div>
-    <div class="carousel-item">
-      <img src="/img2.jpeg" class="d-block w-100" alt="NFL2L20">
-    </div>
-    <div class="carousel-item">
-      <img src="/img3.jpeg" class="d-block w-100" alt="NFL2K20">
-    </div>
-    <div class="carousel-item">
-      <img src="/img4.jpeg" class="d-block w-100" alt="NFL2K20">
-    </div>
-    <div class="carousel-item">
-      <img src="/img5.jpeg" class="d-block w-100" alt="NFL2K20">
-    </div>
-    <div class="carousel-item">
-      <img src="/img6.jpeg" class="d-block w-100" alt="NFL2K20">
-    </div>
-    <div class="carousel-item">
-      <img src="/img7.jpeg" class="d-block w-100" alt="NFL2K20">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+<b>Screenshots:</b>
+
+<img src="/img.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<img src="/img2.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<img src="/img3.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<img src="/img4.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<img src="/img5.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<img src="/img6.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<img src="/img7.jpeg" alt="NFL2K20" height="50%" width="50%">
+
+<b>Video Preview:</b>
 
 <b>What You Need:</b>
 
@@ -80,24 +64,6 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 * <a href="http://bit.ly/3axfO65" target="_blank">The Unarchiver (for Mac)</a>
 
 * <a href="http://bit.ly/3auwPOg" target="_blank">7-Zip (for PC)</a>
-
-<b>Screenshots:</b>
-
-<img src="/img.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img2.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img3.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img4.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img5.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img6.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img7.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<b>Video Preview:</b>
 
 <b>Other:</b>
 
