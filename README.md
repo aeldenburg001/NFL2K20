@@ -1,6 +1,6 @@
 <b>ESPN NFL 2K20</b>
 
-![Alt text](/NFL2K20.jpg?raw=true "NFL2K20")
+![Alt text](/NFL2K20.jpg?raw=true "NFL2K20" height="100" width="auto")
 
 <b>What You Need:</b>
 
@@ -49,5 +49,5 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <b>Other:</b>
 
-<b>All Required Files - Updated as of March, 2020:</b>
+All Required Files - Updated as of March, 2020:
 http://bit.ly/2vykidZ
