@@ -4,23 +4,7 @@
 
 <a href="http://bit.ly/2wAKIvO" target="_blank"><b>Video Preview</b></a>
 
-<b>Screenshots:</b>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/GtwfABk"><a href="//imgur.com/a/GtwfABk">NFL2K20 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src="/img.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img2.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img3.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img4.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img5.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img6.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<img src="/img7.jpeg" alt="NFL2K20" height="50%" width="50%">
+<a href="https://imgur.com/gallery/GtwfABk" target="_blank"><b>Screenshots</b></a>
 
 <h3><b>What You Need:</b></h3>
 
