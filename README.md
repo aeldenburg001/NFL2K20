@@ -2,6 +2,40 @@
 
 <img src="/NFL2K20.jpg" alt="NFL2K20" height="60%" width="50%">
 
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img.jpeg" class="d-block w-100" alt="NFL2K20">
+    </div>
+    <div class="carousel-item">
+      <img src="/img2.jpeg" class="d-block w-100" alt="NFL2L20">
+    </div>
+    <div class="carousel-item">
+      <img src="/img3.jpeg" class="d-block w-100" alt="NFL2K20">
+    </div>
+    <div class="carousel-item">
+      <img src="/img4.jpeg" class="d-block w-100" alt="NFL2K20">
+    </div>
+    <div class="carousel-item">
+      <img src="/img5.jpeg" class="d-block w-100" alt="NFL2K20">
+    </div>
+    <div class="carousel-item">
+      <img src="/img6.jpeg" class="d-block w-100" alt="NFL2K20">
+    </div>
+    <div class="carousel-item">
+      <img src="/img7.jpeg" class="d-block w-100" alt="NFL2K20">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 <b>What You Need:</b>
 
 1) <a href="http://bit.ly/3cDH5FY" target="_blank">PCSX2 (PS2 Emulator)</a>
