@@ -49,6 +49,8 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <b>Screenshots:</b>
 
+<b>Video Preview:</b>
+
 <b>Other:</b>
 
 All Required Files - Updated as of March, 2020:
