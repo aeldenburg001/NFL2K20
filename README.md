@@ -47,6 +47,8 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 * <a href="http://bit.ly/3auwPOg" target="_blank">7-Zip (for PC)</a>
 
+<b>Screenshots:</b>
+
 <b>Other:</b>
 
 All Required Files - Updated as of March, 2020:
