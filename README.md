@@ -1,8 +1,6 @@
 <b>ESPN NFL 2K20</b>
 
-![Alt text](/NFL2K20.jpg?raw=true "NFL2K20")
-
-<img src="/NFL2K20.jpg" alt="NFL2K20" height="100" width="50">
+<img src="/NFL2K20.jpg" alt="NFL2K20" height="250" width="auto">
 
 <b>What You Need:</b>
 
