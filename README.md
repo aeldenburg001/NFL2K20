@@ -1,6 +1,9 @@
 <h1><b>ESPN NFL 2K20</b></h1>
 
-<img src="/NFL2K20.jpg" alt="NFL2K20" height="50%" width="40%">
+<img src="/NFL2K20.jpg" alt="NFL2K20" height="60%" width="50%">
+
+<b>Video Preview:</b><br>
+http://bit.ly/2wAKIvO
 
 <b>Screenshots:</b>
 
@@ -17,9 +20,6 @@
 <img src="/img6.jpeg" alt="NFL2K20" height="50%" width="50%">
 
 <img src="/img7.jpeg" alt="NFL2K20" height="50%" width="50%">
-
-<b>Video Preview:</b><br>
-http://bit.ly/2wAKIvO
 
 <h3><b>What You Need:</b></h3>
 
