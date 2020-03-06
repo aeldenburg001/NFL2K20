@@ -1,6 +1,6 @@
 <b>ESPN NFL 2K20</b>
 
-<img src="/NFL2K20.jpg" alt="NFL2K20" height="60%" width="50%">
+<img src="/NFL2K20.jpg" alt="NFL2K20" height="50%" width="40%">
 
 <b>Screenshots:</b>
 
