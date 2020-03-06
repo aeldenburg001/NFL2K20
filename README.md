@@ -6,6 +6,8 @@
 
 <b>Screenshots:</b>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/GtwfABk"><a href="//imgur.com/a/GtwfABk">NFL2K20 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src="/img.jpeg" alt="NFL2K20" height="50%" width="50%">
 
 <img src="/img2.jpeg" alt="NFL2K20" height="50%" width="50%">
