@@ -51,8 +51,6 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <img src="/img.jpeg" alt="NFL2K20" height="50%" width="50%">
 
-<img src="/img1.jpeg" alt="NFL2K20" height="50%" width="50%">
-
 <img src="/img2.jpeg" alt="NFL2K20" height="50%" width="50%">
 
 <img src="/img3.jpeg" alt="NFL2K20" height="50%" width="50%">
