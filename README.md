@@ -1,6 +1,6 @@
 <b>ESPN NFL 2K20</b>
 
-<img src="/NFL2K20.jpg" alt="NFL2K20" height="350" width="auto">
+<img src="/NFL2K20.jpg" alt="NFL2K20" height="480" width="auto">
 
 <b>What You Need:</b>
 
