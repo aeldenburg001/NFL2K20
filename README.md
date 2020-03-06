@@ -49,6 +49,22 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <b>Screenshots:</b>
 
+<img src="/img.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img1.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img2.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img3.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img4.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img5.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img6.jpg" alt="NFL2K20" height="50%" width="40%">
+
+<img src="/img7.jpg" alt="NFL2K20" height="50%" width="40%">
+
 <b>Video Preview:</b>
 
 <b>Other:</b>
