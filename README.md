@@ -1,4 +1,4 @@
-<b>ESPN NFL 2K20</b>
+<h1><b>ESPN NFL 2K20</b></h1>
 
 <img src="/NFL2K20.jpg" alt="NFL2K20" height="50%" width="40%">
 
@@ -21,7 +21,7 @@
 <b>Video Preview:</b><br>
 http://bit.ly/2wAKIvO
 
-<b>What You Need:</b>
+<h3><b>What You Need:</b></h3>
 
 1) <a href="http://bit.ly/3cDH5FY" target="_blank">PCSX2 (PS2 Emulator)</a>
 
@@ -38,7 +38,7 @@ http://bit.ly/3cwfh6a
 
 6) <a href="http://bit.ly/2vykGcr" target="_blank">Updated Roster Files</a>
 
-<b>Setup:</b>
+<h3><b>Setup:</b></h3>
 
 * To begin, install PCSX2. Once complete you can use DS4Windows to connect a PS4 controller via USB or Bluetooth.<br>
 
@@ -48,7 +48,7 @@ http://bit.ly/3cwfh6a
 
 * You will now have rosters updated for the 2019-2020 season! Enjoy!<br>
 
-<b>Resources:</b>
+<h3><b>Resources:</b></h3>
 
 * <a href="http://bit.ly/2vH7x0B" target="_blank">PCSX2 Setup (Mac)</a>
 
@@ -58,7 +58,7 @@ http://bit.ly/3cwfh6a
 
 * <a href="http://bit.ly/39smlyP" target="_blank">Updating 2K5 rosters (using mymc)</a>
 
-<b>Notes:</b>
+<h3><b>Notes:</b></h3>
 
 I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
@@ -66,7 +66,7 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 * <a href="http://bit.ly/3auwPOg" target="_blank">7-Zip (for PC)</a>
 
-<b>Other:</b>
+<h3><b>Other:</b></h3>
 
 All Required Files - Updated as of March, 2020:
 http://bit.ly/2vykidZ
