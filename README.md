@@ -49,21 +49,21 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <b>Screenshots:</b>
 
-<img src="/img.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img1.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img1.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img2.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img2.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img3.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img3.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img4.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img4.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img5.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img5.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img6.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img6.jpeg" alt="NFL2K20" height="50%" width="auto">
 
-<img src="/img7.jpeg" alt="NFL2K20" height="50%" width="40%">
+<img src="/img7.jpeg" alt="NFL2K20" height="50%" width="auto">
 
 <b>Video Preview:</b>
 
