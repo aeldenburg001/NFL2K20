@@ -18,7 +18,8 @@
 
 <img src="/img7.jpeg" alt="NFL2K20" height="50%" width="50%">
 
-<b>Video Preview:</b>
+<b>Video Preview:</b><br>
+http://bit.ly/2wAKIvO
 
 <b>What You Need:</b>
 
