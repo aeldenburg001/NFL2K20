@@ -49,7 +49,5 @@ I reccomend using either The Unarchiver or 7-Zip for extracting files.<br>
 
 <b>Other:</b>
 
-<a href="https://www.youtube.com/watch?v=UNskXFPECa8&t=47s" target="_blank">Why ESPN NFL2K5 is the GREATEST Football Game Ever Made</a>
-
 <b>All Required Files - Updated as of March, 2020:</b>
 http://bit.ly/2vykidZ
