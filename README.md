@@ -1,6 +1,6 @@
 <b>ESPN NFL 2K20</b>
 
-<blockquote ![Alt text](/NFL2K20.jpg?raw=true "NFL2K20")</blockquote>
+![Alt text](/NFL2K20.jpg?raw=true "NFL2K20")
 
 <b>What You Need:</b>
 
